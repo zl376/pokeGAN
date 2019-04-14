@@ -1,0 +1,8 @@
+# Ignore folder
+data/
+ckpt/
+#   Notebook
+.ipynb_checkpoints
+__pycache__
+#   System
+.DS_Store
